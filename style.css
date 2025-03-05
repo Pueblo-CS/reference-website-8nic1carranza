@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(211, 16, 9);
+}
+img {
+    width: 500px; height: 300px;
+}
+h1{
+    color: white;
+}
+h2{
+    color: white;
+}
+h3{
+    color: white;
+}
+.whitetext{
+    color: white;
+}
